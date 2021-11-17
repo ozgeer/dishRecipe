@@ -40,9 +40,9 @@ _testmain.go
 .tmp
 #.sass-cache
 #builds/**/images/*
-#*.ogg
+*.ogg
 #*.mp3
-#*.mp4
-#*.png
-#*.jpeg
+*.mp4
+*.png
+*.jpeg
 *.psd
